@@ -4,10 +4,10 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
-#define WIFI_SSID "#mksai"
-#define WIFI_PASSWORD "2444666666"
-#define API_KEY "AIzaSyBGBn0z5_3Qo6OUrK3xARB75ttcE1oiuFg"
-#define DATABASE_URL "https://smsbp-a5303-default-rtdb.firebaseio.com/" 
+#define WIFI_SSID "######"
+#define WIFI_PASSWORD "######"
+#define API_KEY "*******************************"
+#define DATABASE_URL "***************************" 
 
 String parent ="smslist";
 String child="7396151573";
